@@ -1,1 +1,1 @@
-# github-pages-example
+# my-cite
